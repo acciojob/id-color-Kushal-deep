@@ -2,6 +2,7 @@
 #yellow{
 	background-color:yellow;
 	border-width:1px;
+	border-style:solid;
 	border-color:green;
 	/* border:2px solid green;
 	 */
@@ -9,12 +10,14 @@
 #red{
 	background-color:red;
 	border-width:1px;
+	border-style:solid;
 	border-color:black;
 	/* border:2px solid black; */
 }
 #green{
 	background-color:green;
 	border-width:1px;
+	border-style:solid;
 	border-color:yellow;
 	
 	/* border:2px solid yellow; */
